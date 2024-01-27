@@ -16,7 +16,7 @@
     "@types/react-dom": "^16.9.8",
     "@types/styled-components": "^5.1.19",
     "@typescript-eslint/eslint-plugin": "^4.5.0",
-    "@typescript-eslint/parser": "^4.5.0",
+    "@typescript-eslint/parser": "^4.33.0",
     "@walletconnect/web3-provider": "^1.7.0",
     "@web3auth/web3auth": "^1.1.0",
     "axios": "^0.21.2",
